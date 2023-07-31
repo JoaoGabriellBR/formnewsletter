@@ -1,8 +1,8 @@
 import './globals.css'
 import type { Metadata } from 'next'
-import { Montserrat } from 'next/font/google'
+import { Raleway } from 'next/font/google'
 
-const montserrat = Montserrat({ subsets: ['latin'], weight: ['400'] })
+const raleway = Raleway({ subsets: ['latin'], weight: ['400'] })
 
 export const metadata: Metadata = {
   title: 'Create Next App',
@@ -16,7 +16,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={montserrat.className}>{children}</body>
+      <body className={`${raleway.className} text-white`}>{children}</body>
     </html>
   )
 }
