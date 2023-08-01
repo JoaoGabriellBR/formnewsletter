@@ -1,12 +1,16 @@
 <div align="center">
-    <img width="200px" height="200px" src="https://github.com/JoaoGabriellBR/passwordgenerator/assets/88870257/9373baa6-b542-4f40-9472-9bc78d1c3010">
+    <img width="200px" height="200px" src="https://github.com/JoaoGabriellBR/formnewsletter/assets/88870257/93c32ddb-8f8a-4e98-ac3c-420621e58028">
 </div>
+
 
 ## Sobre o Projeto
 
 <p>Formulario de uma newsletter fictícia de tecnologia.</p>
 
 [https://sitepasswordgenerator.netlify.app](https://sitepasswordgenerator.netlify.app)
+
+![img](https://github.com/JoaoGabriellBR/formnewsletter/assets/88870257/f05749a2-4afd-42d6-b094-ad122f2acdd0)
+![img1](https://github.com/JoaoGabriellBR/formnewsletter/assets/88870257/3ea95fa8-6ada-4fec-b264-f15579400498)
 
 ## 🛠 Tecnologias utilizadas
 
