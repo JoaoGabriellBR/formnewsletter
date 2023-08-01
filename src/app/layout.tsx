@@ -1,8 +1,8 @@
 import './globals.css'
 import type { Metadata } from 'next'
-import { Raleway } from 'next/font/google'
+import { Poppins } from 'next/font/google'
 
-const raleway = Raleway({ subsets: ['latin'], weight: ['400'] })
+const poppins = Poppins({ subsets: ['latin'], weight: ['400'] })
 
 export const metadata: Metadata = {
   title: 'Create Next App',
@@ -16,7 +16,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${raleway.className} text-white`}>{children}</body>
+      <body className={`${poppins.className} text-white bg-gray-800 overflow-hidden`}>{children}</body>
     </html>
   )
 }
