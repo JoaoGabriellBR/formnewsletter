@@ -1,34 +1,68 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+    <img width="200px" height="200px" src="https://github.com/JoaoGabriellBR/passwordgenerator/assets/88870257/9373baa6-b542-4f40-9472-9bc78d1c3010">
+</div>
 
-## Getting Started
+## Sobre o Projeto
 
-First, run the development server:
+<p>Formulario de uma newsletter fictícia de tecnologia.</p>
+
+[https://sitepasswordgenerator.netlify.app](https://sitepasswordgenerator.netlify.app)
+
+## 🛠 Tecnologias utilizadas
+
+- [React](https://reactjs.org/)
+- [NextJs](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org)
+- [TailwindCSS](https://tailwindcss.com)
+- [React Icons](https://react-icons.github.io/react-icons/)
+
+<br>
+
+## 💻 Como executar?
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+## Clonar o projeto
+
+$ git clone 
+https://github.com/JoaoGabriellBR/formnewsletter.git
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```bash
+## Entrar no diretório
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+$ cd formnewsletter
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```
 
-## Learn More
+```bash
+## Instalar as dependências, se você utiliza NPM
+$ npm install
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Instalar as dependências, se você utiliza YARN
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+$ yarn add
 
-## Deploy on Vercel
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<!-- CONTACT -->
+## <h2>📧 Contato</h2>
+
+<br>
+
+[![Email][Email]][Email-url]
+[![GitHub][GitHub]][GitHub-url]
+[![Linkedin][Linkedin]][Linkedin-url]
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[Email]: https://img.shields.io/badge/-gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555
+[Email-url]: joaoname9@gmail.com
+
+[GitHub]: https://img.shields.io/badge/GitHub-0769AD?style=for-the-badge&logo=github&logoColor=white
+[GitHub-url]: https://github.com/JoaoGabriellBR
+
+[Linkedin]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[Linkedin-url]: https://www.linkedin.com/in/joaogabriel-silva
