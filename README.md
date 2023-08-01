@@ -7,10 +7,10 @@
 
 <p>Formulario de uma newsletter fictícia de tecnologia.</p>
 
-[https://sitepasswordgenerator.netlify.app](https://sitepasswordgenerator.netlify.app)
+[![Website][Website]][Website-url]
 
-![img](https://github.com/JoaoGabriellBR/formnewsletter/assets/88870257/f05749a2-4afd-42d6-b094-ad122f2acdd0)
-![img1](https://github.com/JoaoGabriellBR/formnewsletter/assets/88870257/3ea95fa8-6ada-4fec-b264-f15579400498)
+![img](https://github.com/JoaoGabriellBR/formnewsletter/assets/88870257/279b91b2-8f94-44bf-a39f-5997d4f17905)
+![img1](https://github.com/JoaoGabriellBR/formnewsletter/assets/88870257/98debcc3-9d49-40ee-aa53-f7714fa78db4)
 
 ## 🛠 Tecnologias utilizadas
 
@@ -62,6 +62,9 @@ $ yarn add
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[Website]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+[Website-url]: https://formnewsletter.vercel.app
+
 [Email]: https://img.shields.io/badge/-gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555
 [Email-url]: joaoname9@gmail.com
 
